@@ -1,0 +1,6 @@
+{
+  "require": {
+    "codeigniter4/framework": "^4",
+    "firebase/php-jwt": "^6.0"
+  }
+}
